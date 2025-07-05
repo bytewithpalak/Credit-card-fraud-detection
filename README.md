@@ -6,9 +6,9 @@ Welcome to my first machine learning project! This is a simple yet powerful mode
 In this notebook, I explored a popular credit card transactions dataset and built a fraud detection model. Fraudulent transactions are rare and hidden, so the goal was to detect them based on patterns in the data.
 
 ⚙️ Workflow
-mathematica
-Copy code
-Credit Card Data → Data Preprocessing → Data Analysis → Train-Test Split → Logistic Regression → Evaluation
+
+Credit card data ➡️ Data Preprocessing ➡️ Data Analysis ➡️ Train-Test Split ➡️ Logistic Regression ➡️ Evaluation
+
 📁 Dataset
 Source: Kaggle Credit Card Fraud Detection dataset
 
@@ -19,10 +19,14 @@ Logistic Regression — a basic but effective model for binary classification ta
 
 📊 Evaluation
 Used Accuracy Score to check model performance.
+
 Class imbalance was a key challenge (very few frauds compared to legit transactions).
 
 📌 What I Learned
 Handling imbalanced data
+
 Building a Logistic Regression model with scikit-learn
+
 Reading and analyzing large CSV datasets
+
 Importance of model evaluation
