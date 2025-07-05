@@ -1,4 +1,5 @@
 💳 Credit Card Fraud Detection 🕵️‍♀️
+
 Welcome to my first machine learning project! This is a simple yet powerful model that detects fraudulent credit card transactions using Logistic Regression.
 
 🔍 About the Project
