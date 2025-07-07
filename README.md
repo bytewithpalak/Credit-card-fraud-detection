@@ -16,6 +16,7 @@ Credit card data ➡️ Data Preprocessing ➡️ Data Analysis ➡️ Train-Tes
 📁 Dataset
 
 Source: Kaggle Credit Card Fraud Detection dataset
+link- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Note: Due to confidentiality, the features are anonymized (V1, V2, ..., V28), with Time, Amount, and Class (0 = legit, 1 = fraud).
 
